@@ -1,4 +1,4 @@
-let band = document.querySelector("#band");
+let band = document.querySelector("#bands");
 
 const bands = [
   "The Plot in You",
